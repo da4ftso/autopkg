@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.Dialpad</string>
+	<string>com.github.da4ftso.jss.Dialpad</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
